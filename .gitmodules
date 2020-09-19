@@ -1,3 +1,10 @@
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/autocomplete/start/coc.nvim"]
+	path = pack/autocomplete/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+	branch = release
+[submodule "pack/autocomplete/start/vim-go"]
+	path = pack/autocomplete/start/vim-go
+	url = https://github.com/fatih/vim-go.git
