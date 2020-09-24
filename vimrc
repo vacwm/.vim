@@ -13,3 +13,8 @@ filetype plugin indent on
 " Indentation  -----------------------------------------------------------------
 set expandtab tabstop=2 shiftwidth=2
 
+" Color        -----------------------------------------------------------------
+hi CocWarningSign ctermfg=11 guifg=Yellow 	
+
+" Autosave     -----------------------------------------------------------------
+let g:elm_format_autosave = 1

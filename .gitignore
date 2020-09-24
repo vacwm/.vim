@@ -1,0 +1,2 @@
+# Ignore custom views (e.g. line folds)
+view/**
